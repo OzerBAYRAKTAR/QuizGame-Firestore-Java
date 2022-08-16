@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350130539054",
+    "project_id": "egiticimatematikoyunlari",
+    "storage_bucket": "egiticimatematikoyunlari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350130539054:android:b70d848283e66809c86dbf",
+        "android_client_info": {
+          "package_name": "com.example.egiticimatematikoyunlari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350130539054-re9o4ec6f4ang3d8q75t6ed9cgopf443.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHFB49Il8pFR4f9FDWFowOFePo4l2L2GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350130539054-re9o4ec6f4ang3d8q75t6ed9cgopf443.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
