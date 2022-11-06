@@ -1,4 +1,4 @@
-# FireStore-Quiz-Games
+# Play Store'da yayınladığım bu uygulamada Java ile Firebase veritabanını kullandım.
 Math Quiz Games
 ![1](https://user-images.githubusercontent.com/105236639/200173833-3eaf51a8-4fd9-4549-b9be-18355de84ea9.png)
 ![2](https://user-images.githubusercontent.com/105236639/200173836-7b504d0e-c0ac-42fd-8f1f-6bb70a26f8b9.png)
